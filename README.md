@@ -24,7 +24,7 @@ This repository contains a collection of financial modeling and quantitative fin
 
 These models are intended for educational and demonstrative purposes only and do not constitute investment advice.
 
-Contact
+# Contact
 
 Dominic Slomski
 Finance Student – Kent State University

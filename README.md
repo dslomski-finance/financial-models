@@ -5,12 +5,15 @@ This repository contains a collection of financial modeling and quantitative fin
 
 # Projects
  - DCF & LBO Valuation Model
+   
      Integrated discounted cash flow and leveraged buyout model used to forecast cash flows, estimate WACC, analyze capital structures, and evaluate investment returns under multiple scenarios.
 
  - Black-Scholes-Merton Option Pricing Tool
+   
      Option pricing model implementing the Black-Scholes-Merton framework to value European call and put options and analyze sensitivity to volatility, interest rates, and time to maturity.
 
  - Markowitz Portfolio Optimization Model
+   
      Mean-variance portfolio optimization model used to construct an efficient frontier and evaluate risk-return tradeoffs through diversification.
 
 # Tools & Skills Demonstrated
@@ -27,5 +30,7 @@ These models are intended for educational and demonstrative purposes only and do
 # Contact
 
 Dominic Slomski
+
 Finance Student – Kent State University
+
 📧 dslomski@kent.edu
